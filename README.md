@@ -1,2 +1,2 @@
-# telegramX-gruvbox
-gruvbox theme for telegramX
+# gruvbox dark theme for telegramX
+![preview](preview.jpg)

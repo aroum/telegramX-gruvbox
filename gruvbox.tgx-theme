@@ -1,0 +1,16 @@
+!
+name: "gruvbox"
+time: 1665217279
+author: "aroum"
+@
+parentTheme: 2
+#
+attachText, avatar_content, badge, bubble_buttonText_noWallpaper, bubble_dateText, bubble_dateText_noWallpaper, bubble_mediaReplyText, bubble_mediaReplyText_noWallpaper, bubble_mediaTimeText, bubble_mediaTimeText_noWallpaper, bubble_messageCheckOutline, bubble_overlayText, bubble_overlayText_noWallpaper, bubbleIn_pressed, bubbleIn_progress, bubbleIn_text, bubbleOut_chatVerticalLine, bubbleOut_inlineIcon, bubbleOut_inlineOutline, bubbleOut_inlineText, bubbleOut_text, bubbleOut_ticks, bubbleOut_ticksRead, bubbleOut_waveformActive, caption_textLinkPressHighlight, chatListAction, chatListVerify, chatSendButton, checkActive, circleButtonNegativeIcon, circleButtonNewGroupIcon, circleButtonNewSecretIcon, circleButtonRegularIcon, circleButtonThemeIcon, controlActive, drawer, drawerText, fillingPositiveContent, headerButton, headerButtonIcon, headerIcon, headerLightIcon, headerLightText, headerPickerText, headerPlaceholder, headerTabActive, headerTabActiveText, headerText, iconActive, inlineIcon, inlineOutline, inlineText, inputActive, introSectionActive, iv_blockQuote, iv_blockQuoteLine, iv_header, iv_pageTitle, iv_pullQuote, iv_text, iv_textMarked, iv_textReference, messageSwipeContent, messageVerticalLine, online, passcodeIcon, passcodeText, playerButton, playerButtonActive, playerCoverIcon, profileSectionActive, profileSectionActiveContent, progress, promo, sectionedScrollBarActive, sectionedScrollBarActiveContent, seekDone, sliderActive, snackbarUpdateAction, snackbarUpdateText, statusBarContent, statusBarLegacyContent, text, textNeutral, themeBlackWhite, ticks, ticksRead, togglerActive, togglerPositive, unreadText, videoSliderActive, videoSliderInactive, waveformActive, white: #EBDBB2
+background, bubble_chatBackground, headerPickerBackground, inlineContentActive, messageSwipeBackground, notification, notificationPlayer, passcode, unread: #282828
+bubble_messageSelection: #0009
+bubble_messageSelectionNoWallpaper: #000B
+file, shareSeparator: #1F1F1F
+headerBackground: #1D2021
+headerTabInactiveText: #EBDBB2D6
+messageSelection: #EBDBB219
+textSelectionHighlight: #EBDBB226
